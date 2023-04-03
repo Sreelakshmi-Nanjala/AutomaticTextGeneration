@@ -1,1 +1,1 @@
-# AutomatixTextGeneration
+# AutomaticTextGeneration
