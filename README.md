@@ -1,1 +1,1 @@
-# AutomaticTextGeneration
+# Spam Message classification
